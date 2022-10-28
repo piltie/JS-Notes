@@ -1,2 +1,4 @@
 # JS-Notes
-My JavaScript note taking.
+» My JavaScript note taking.
+
+✱*.｡:｡✱*.:｡✧*.｡✰*.:｡✧*.｡:｡*.｡✱
